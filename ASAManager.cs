@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace Test
+namespace JTASAManager
 {
     [RequireComponent(typeof(SpatialAnchorManager))]
     public class ASAManager : MonoBehaviour
